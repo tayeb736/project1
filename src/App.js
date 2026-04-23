@@ -364,7 +364,7 @@ function App() {
                 <span className="hero-tag-dot"></span>
                 Available for Elite Projects
               </div>
-              <div className="hero-year">© 2024</div>
+              <div className="hero-year">© 2026</div>
             </div>
             <h1 className="hero-title">
               <span className="title-line">
