@@ -919,7 +919,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>© 2024 Tayeb. All rights reserved. Secured with RSA-4096.</p>
+            <p>© 2026 Tayeb. All rights reserved. Secured with RSA-4096.</p>
             <div className="footer-bottom-links">
               <a href="#">Security Policy</a>
               <a href="#">Terms of Engagement</a>
